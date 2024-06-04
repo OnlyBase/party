@@ -6,7 +6,7 @@ Welcome to the **BASED Block Party** GitHub repository, a community hub for shar
 
 Onchain Summer is a celebration of all things onchain, where the community comes together to showcase, share, and celebrate the creativity and innovation happening in the blockchain space. Just like a concert T-shirt lists all the acts playing, this repo will keep track of the projects participating in Onchain Summer **BASED Block Party**.
 
-![Onchain Summer Block Party T-shirt](design0.png)
+<img width="642" alt="Onchain Summer Block Party T-shirt" src="https://github.com/OnlyBase/party/assets/11172043/164279a7-a98c-4a44-9082-e09d6e73be73">
 
 
 ## What You'll Find Here
@@ -14,11 +14,11 @@ Onchain Summer is a celebration of all things onchain, where the community comes
 This repository is a collaborative space where you can:
 - **Share Design Assets:** Upload and download memes, flyers, and other design assets for Onchain Summer events.
 - **Track Participating Projects:** See the list of projects and teams that are part of the Onchain Summer celebration.
-- **Collaborate and Connect:** Engage with the community, collaborate on ideas, and contribute to the growing collection of resources.
+- **Collaborate and Connect:** Engage with the community, collaborate on ideas, and contribute to the growing collection of resources. (we chat on Telegram everyday)
 
 ## How to Contribute
 
-We welcome contributions from everyone! Here’s how you can get involved:
+We welcome contributions from everyone! You can share assets on Telegram and we will use this as a way to see where we are collectively.  If you are more techical, here’s how you can get involved:
 
 1. **Fork the Repo:** Start by forking this repository to your own GitHub account.
 2. **Create a New Branch:** Make a new branch for your contributions.
